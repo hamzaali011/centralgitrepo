@@ -1,1 +1,3 @@
-tech2 file is for learning purpose. don't use it for other working
+tech2 file is for learning . don't use it for other working
+new line for tracking
+hamza ALi
